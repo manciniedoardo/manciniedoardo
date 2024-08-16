@@ -1,4 +1,4 @@
-My name is Edoardo Mancini and I am a Senior Data Scientist working at Roche. I'm very interested in R and pushing th e adoption ofopen-source solutions (such as those in the [pharmaverse](https://github.com/pharmaverse)) within the pharmaceutical industry.
+My name is Edoardo Mancini and I am a Senior Data Scientist working at Roche. I'm very interested in R and pushing the adoption of open-source solutions (such as those making up the [pharmaverse](https://github.com/pharmaverse)) within the pharmaceutical industry.
 
 My github stats:
 
