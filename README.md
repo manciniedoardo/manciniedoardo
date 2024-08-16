@@ -2,7 +2,7 @@ My name is Edoardo Mancini and I am a Senior Data Scientist working at Roche. I'
 
 My github stats:
 
-[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=manciniedoardo&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbecker&hide=turing,javascript,html,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Edoardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=manciniedoardo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **manciniedoardo/manciniedoardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
