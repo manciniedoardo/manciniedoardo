@@ -3,10 +3,6 @@ My name is Edoardo Mancini and I am a Senior Data Scientist working at Roche. I'
 My github stats:
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manciniedoardo&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manciniedoardo&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
