@@ -2,9 +2,10 @@ My name is Edoardo Mancini and I am a Senior Data Scientist working at Roche. I'
 
 My github stats:
 
-![Edoardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=manciniedoardo&show_icons=true&theme=dracula)
+[![Edoardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=manciniedoardo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manciniedoardo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manciniedoardo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
